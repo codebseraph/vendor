@@ -143,8 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5-common/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/samsung/a5-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/samsung/a5-common/proprietary/etc/Tfa9895.cnt:system/etc/Tfa9895.cnt \
-    vendor/samsung/a5-common/proprietary/lib/libtfa9895.so:system/lib/libtfa9895.so \
-    vendor/samsung/a5-common/proprietary/vendor/hw/audio.primary.msm8916.so:system/vendor/hw/audio.primary.msm8916.so
+    vendor/samsung/a5-common/proprietary/lib/libtfa9895.so:system/lib/libtfa9895.so
 
 ### QCOM KEYSTORE
 PRODUCT_COPY_FILES += \
