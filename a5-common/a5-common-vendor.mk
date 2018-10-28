@@ -29,16 +29,30 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5-common/proprietary/lib/libmmcamera2_stats_algorithm.so:system/lib/libmmcamera2_stats_algorithm.so \
     vendor/samsung/a5-common/proprietary/lib/libmmcamera_cac2_lib_13M.so:system/lib/libmmcamera_cac2_lib_13M.so \
     vendor/samsung/a5-common/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common.so:system/lib/libchromatix_imx135_common.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_1080p_b.so:system/lib/libchromatix_imx135_common_1080p_b.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_1080p_s.so:system/lib/libchromatix_imx135_common_1080p_s.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_res0.so:system/lib/libchromatix_imx135_common_res0.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_res1.so:system/lib/libchromatix_imx135_common_res1.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_res2.so:system/lib/libchromatix_imx135_common_res2.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_common_res3.so:system/lib/libchromatix_imx135_common_res3.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_default_video.so:system/lib/libchromatix_imx135_default_video.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_golfshot.so:system/lib/libchromatix_imx135_golfshot.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_hfr_1080p_b.so:system/lib/libchromatix_imx135_hfr_1080p_b.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_hfr_120.so:system/lib/libchromatix_imx135_hfr_120.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_hfr_1080p_s.so:system/lib/libchromatix_imx135_hfr_1080p_s.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_lowres_zslshot.so:system/lib/libchromatix_imx135_lowres_zslshot.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_panorama.so:system/lib/libchromatix_imx135_panorama.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_pip.so:system/lib/libchromatix_imx135_pip.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_snapshot.so:system/lib/libchromatix_imx135_snapshot.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_uhd_video.so:system/lib/libchromatix_imx135_uhd_video.so \
+    vendor/samsung/a5-common/proprietary/lib/libchromatix_imx135_zslshot.so:system/lib/libchromatix_imx135_zslshot.so \
     vendor/samsung/a5-common/proprietary/vendor/lib/libactuator_dw9804_a7_camcorder.so:system/vendor/lib/libactuator_dw9804_a7_camcorder.so \
     vendor/samsung/a5-common/proprietary/vendor/lib/libactuator_dw9804_a7_camera.so:system/vendor/lib/libactuator_dw9804_a7_camera.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_common.so:system/vendor/lib/libchromatix_imx135_common.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_common_res0.so:system/vendor/lib/libchromatix_imx135_common_res0.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_default_video.so:system/vendor/lib/libchromatix_imx135_default_video.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_liveshot.so:system/vendor/lib/libchromatix_imx135_liveshot.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_panorama.so:system/vendor/lib/libchromatix_imx135_panorama.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_preview.so:system/vendor/lib/libchromatix_imx135_preview.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
-    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_zslshot.so:system/vendor/lib/libchromatix_imx135_zslshot.so \
+    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_vt.so:system/vendor/lib/libchromatix_imx135_vt.so \
+    vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_imx135_vt_hd.so:system/vendor/lib/libchromatix_imx135_vt_hd.so \
     vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_common.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_common.so \
     vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_pip.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_pip.so \
     vendor/samsung/a5-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_preview.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_preview.so \
@@ -130,7 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/samsung/a5-common/proprietary/etc/Tfa9895.cnt:system/etc/Tfa9895.cnt \
     vendor/samsung/a5-common/proprietary/lib/libtfa9895.so:system/lib/libtfa9895.so \
-	vendor/samsung/a5-common/proprietary/vendor/hw/audio.primary.msm8916.so:system/vendor/hw/audio.primary.msm8916.so
+    vendor/samsung/a5-common/proprietary/vendor/hw/audio.primary.msm8916.so:system/vendor/hw/audio.primary.msm8916.so
 
 ### QCOM KEYSTORE
 PRODUCT_COPY_FILES += \
